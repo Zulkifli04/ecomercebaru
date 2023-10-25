@@ -1,0 +1,6 @@
+2023-10-18T07:41:25+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\htdocs\wordpress\wp-includes\Requests\src\Transport\Curl.php pada baris 534
+
+2023-10-18T07:44:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\htdocs\wordpress\wp-includes\Requests\src\Transport\Curl.php pada baris 510
+
+2023-10-18T07:45:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\htdocs\wordpress\wp-includes\Requests\src\Transport\Curl.php pada baris 510
+
